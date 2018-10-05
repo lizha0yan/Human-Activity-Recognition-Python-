@@ -14,8 +14,12 @@ For each record provided:
 
 
 Fitted the decision tree model, check the validation error to prevent overfitting.
+
 #No training error, validation error=0.05. test error=0.1751.
+
 Visualized the decision tree.
+
 Test error is too big, so I used Random Forest algorithm to improve the model performance. 
+
 New validation error is 0.0185. And new test error is 0.0719. Great imporve!
 
